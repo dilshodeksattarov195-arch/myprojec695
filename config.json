@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrync",
+        "uuid": 4703065,
+        "checksum": "mswvpg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
